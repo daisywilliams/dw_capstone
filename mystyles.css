@@ -1,7 +1,8 @@
 h1 {
-    text-align: left;
-    font-size: 100px;
-    letter-spacing: 30px
+    text-align: center;
+    font-size: 400px;
+    letter-spacing: 50px;
+    margin-bottom: -80px;
 }
 
 h4 {
@@ -10,13 +11,28 @@ h4 {
 
 }
 
+h2 {
+    text-align: center;
+    font-size: 25px;
+
+}
+
 
 .hed {
-    font-family: 'Karla', San-Serif;
+    font-family: 'Bebas Neue', cursive;
     margin: auto;
-    max-width: 620px;
     text-transform: uppercase;
-    margin-bottom: 10px;
+    text-align: center;
+
+
+}
+
+.hed_second {
+    font-family: 'Bebas Neue', cursive;
+    margin: auto;
+    max-width: 500px;
+    text-transform: uppercase;
+    text-align: center;
 
 
 }
@@ -26,7 +42,7 @@ h4 {
     font-size: 4px line-height: 1.8;
     text-align: center;
     margin: 20px auto 20px auto;
-    max-width: 700px;
+    max-width: 1000px;
 
 
 }
@@ -42,11 +58,11 @@ h4 {
 .copy {
 
     font-family: 'Karla', San-Serif;
-    font-size: 17px;
+    font-size: 20px;
     line-height: 1.8;
     text-align: left;
     margin: 20px auto 20px auto;
-    max-width: 800px;
+    max-width: 1050px;
 
 
 }
@@ -68,9 +84,11 @@ h4 {
     max-width: 700px;
 }
 
-.pic {
-    max-width: 800px;
+.vid {
     margin: auto;
+    max-width: 1000px;
+    max-height: 590px
+}
 
 
 
@@ -104,11 +122,19 @@ h4 {
 
     font-family: 'Karla', San-Serif;
     text-align: left;
-    max-width: 550px;
+    max-width: 1000px;
     margin: auto;
     font-size: 18px;
 
+}
 
+.timeline {
+
+    font-family: 'Karla', San-Serif;
+    text-align: left;
+    max-width: 2000px;
+    margin: auto;
+    font-size: 18px;
 
 
 
